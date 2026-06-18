@@ -1,0 +1,47 @@
+# Datasets e arquivos grandes
+data/raw/
+data/external/
+*.csv
+*.xlsx
+*.zip
+*.tar.gz
+
+# PDFs e documentos internos
+*.pdf
+
+# Modelos treinados
+models/*.pkl
+models/*.joblib
+models/*.h5
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code
+.claude/
