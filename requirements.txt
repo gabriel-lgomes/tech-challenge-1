@@ -7,3 +7,5 @@ shap==0.45.1
 jupyter==1.0.0
 notebook==7.2.0
 ipykernel==6.29.4
+tensorflow>=2.12.0
+Pillow>=10.0.0
